@@ -1,4 +1,4 @@
-<h1>NatsuLion for iPhone</h1>
+<h1>Bentio for iPhone</h1>
 
 <h2>LICENSE</h2>
 
