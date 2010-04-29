@@ -21,9 +21,3 @@ The form must be selected or filled the following values:
 <li>Callback URL: http://iphone.natsulion.org/oauth_callback</li>
 <li>Default Access type: Read & Write</li>
 </ul>
-
-<h2>Github committers:</h2>
-<ul>
-<li><a href="http://github.com/takuma104">takuma104 (http://github.com/takuma104)</a></li>
-<li><a href="http://github.com/mootoh">mootoh (http://github.com/mootoh)</a></li>
-</ul>
